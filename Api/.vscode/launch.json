@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-VathospitalApplication<vathospital>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.vethospital.api.vethospital.VathospitalApplication",
+            "projectName": "vathospital",
+            "args": ""
+        }
+    ]
+}
